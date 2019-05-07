@@ -38,3 +38,10 @@ Constructor Based Injection(maybe Best way to go)
 
 
 
+**Application Properties &Yaml Configuration**
+
+spring.profile.active=…  进行分区配置
+
+@Profile("...")
+
+always load beans that do not have profile mark on it
