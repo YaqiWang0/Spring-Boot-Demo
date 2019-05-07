@@ -17,3 +17,24 @@ help—Find Action—Registry—Compiler.automake.allow.when.app.running ✅
 preference—build—build project automatically
 
 Chrome extension—livereload(Allow access to file URLs)
+
+
+
+**Bean Configurations**
+
+@Scope("session")
+
+property based injection(try to avoid)
+
+Setter Based Injection
+
+Constructor Based Injection(maybe Best way to go)
+
+
+
+@Configuration(class here is a bean defination for the application context)
+
+@Components()
+
+
+
